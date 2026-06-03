@@ -50,3 +50,37 @@ Netflix hosts **8,000+ titles** across genres, countries, and categories. Withou
 ---
 
 ## 📁 Repository Structure
+---
+
+## 🚀 How to Run
+
+```bash
+# Clone the repository
+git clone https://github.com/sagar-shende/VOIS_AICTE_Oct2025_Major_Project_Netflix_data_analysis.git
+
+# Install dependencies
+pip install pandas numpy matplotlib seaborn jupyter
+
+# Launch notebook
+jupyter notebook netflix_data_analysis.ipynb
+```
+
+---
+
+## 🏅 Certifications
+
+| Certificate | Issued By | Date |
+|---|---|---|
+| Certificate of Internship | VOIS × AICTE × Edunet Foundation | Oct 2025 |
+| Getting Started with Basics of Python | Vodafone Idea Foundation | Sep 17, 2025 |
+| Data Visualization | Vodafone Idea Foundation | Sep 25, 2025 |
+
+---
+
+## 👤 Author
+
+**Sagar Kishor Shende**
+BCCA Final Year | RTMNU, Wardha
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/sagarshende-ai)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/sagar-shende)
